@@ -1,10 +1,9 @@
 
 ### Hi there, I'm [Hyejin](https://github.com/hyejinkim.dev) 👋
 
-🏠 I’m currently living at Seoul, Korea.🇰🇷 <br/>
+🏠 I’m currently living at Bournemouth, UK.🇬🇧🇷 <br/>
 👩🏻‍💻 I had been working as a front-end markup developer.<br/>
 🌱 I’m currently learning English.<br/>
-🍷 I’m a wine lover. <br/>
 💜️ I’m looking to working abroad.
 
 #### 🛠  Tech Stack
