@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Hyejin](https://github.com/hyejinkim.dev) 👋
 
-🏠 I’m currently living at Bournemouth, UK.🇬🇧 <br/>
+🏠 I’m currently living in Seoul, South Korea. 🇰🇷 <br/>
 👩🏻‍💻 I had been working as a front-end markup developer.<br/>
 🌱 I’m interested in clean and reusable codes.<br/>
 💜️ I’m looking to working abroad.
