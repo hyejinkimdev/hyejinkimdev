@@ -1,8 +1,9 @@
 
 ### Hi there, I'm [Hyejin](https://github.com/hyejinkim.dev) 👋
 
-🏠 I’m currently living in Seoul, South Korea. 🇰🇷 <br/>
-👩🏻‍💻 I had been working as a front-end markup developer.<br/>
+🏠 I’m currently living in Seoul, South Korea. 🇰🇷
+👩🏻‍💻 I had been working as a front-end markup developer.
+🌱 I’m interested in clean and reusable codes.
 
 #### 🛠  Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white)&nbsp; </br>
