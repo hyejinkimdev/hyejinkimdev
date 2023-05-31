@@ -1,8 +1,8 @@
 
 ### Hi there, I'm [Hyejin](https://github.com/hyejinkim.dev) 👋
 
-🏠 I’m currently living in Seoul, South Korea. 🇰🇷
-👩🏻‍💻 I had been working as a front-end markup developer.
+🏠 I’m currently living in Seoul, South Korea. 🇰🇷.  
+👩🏻‍💻 I had been working as a front-end markup developer.  
 🌱 I’m interested in clean and reusable codes.
 
 #### 🛠  Tech Stack
